@@ -1,4 +1,4 @@
-# My repositories for articles on my medium blog
+# Repositories for medium blog
 https://denitiawan.medium.com
 
 - [Springboot](https://github.com/denitiawan/medium-learn-springboot)
